@@ -1,0 +1,3 @@
+# Old Viztack repository
+`viztack-old` is the repository of the old version of my project Viztack...
+Viztack was rebooted. Go to the actual project's repo [here](https://github.com/marc-dantas/viztack/).
